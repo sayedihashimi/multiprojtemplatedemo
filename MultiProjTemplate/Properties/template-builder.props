@@ -12,7 +12,7 @@
    -->
   <PropertyGroup>
     <!-- TODO: I think this line is no longer needed but not 100% sure yet -->
-    <ls-ProjectTemplateZipRootFolder>ProjectTemplates\</ls-ProjectTemplateZipRootFolder>
+    <!--<ls-ProjectTemplateZipRootFolder>ProjectTemplates\</ls-ProjectTemplateZipRootFolder>-->
     
     <!-- This is the subfolder name where the templates will show up in Visual Studio. -->
     <ls-TemplateSubFolder>My Custom Templates</ls-TemplateSubFolder>
