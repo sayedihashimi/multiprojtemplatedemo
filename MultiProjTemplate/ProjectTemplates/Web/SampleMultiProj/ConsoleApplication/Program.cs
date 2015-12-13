@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace ConsoleApplication {
     class Program {
         static void Main(string[] args) {
-            Console.WriteLine(string.Format("Name: {0}",SharedLibrary.SharedCLass.Name));
+            System.Console.WriteLine(string.Format("Name: {0}",SharedLibrary.SharedCLass.Name));
         }
     }
 }

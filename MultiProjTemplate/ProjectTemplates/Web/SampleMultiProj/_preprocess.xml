@@ -6,5 +6,7 @@
   -->
   <TemplateInfo Path="CSharp\Web\MultiProject"/>
   <Replacements Include="*.*" Exclude="*.vstemplate;*.jpg;*.png;*.ico;_preprocess.xml;_project.vstemplate.xml">
+    <add key="ConsoleApplication" value="$saferootprojectname$.Console"/>
+    <add key="SharedLibrary" value="$saferootprojectname$.Shared"/>
   </Replacements>
 </Preprocess>
